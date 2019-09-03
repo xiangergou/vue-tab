@@ -419,7 +419,8 @@ export default {
     async readMore () {
       this.loading = true
       this.page += 1
-      const list = await listApi.getPageQuery({id: this.thirdRadio || this.listId, count: this.count, page: this.page, pageSize: 20})
+      const id = this.listId
+      const list = await listApi.getPageQuery({id, count: this.count, page: this.page, pageSize: 20})
       setTimeout(() => {
         this.loading = false
       }, 10)
@@ -515,9 +516,6 @@ export default {
     this.isSpecial = +this.oneId === 43 && +this.listId === 0
     window.addEventListener('scroll', this.scrollBtm)
   },
-  // destroyed () {
-  //   window.removeEventListener('scroll', this.scrollBtm)
-  // },
   watch: {
     $route (newValue, oldValue) {
       this.oneId = newValue.query.oneId
