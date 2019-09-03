@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>特色榜</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="首页" transform="translate(-775.000000, -186.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="上" transform="translate(370.000000, 105.000000)">
+                <g id="Group-13" transform="translate(40.000000, 76.000000)">
+                    <g id="特色榜" transform="translate(365.000000, 5.000000)">
+                        <circle id="Oval-3" cx="19" cy="19" r="18.25"></circle>
+                        <path d="M24.4695395,25.5281753 L23.4249504,19.4377535 L27.8499008,15.1244929 L21.7347698,14.2359124 L19,8.6946636 L16.2652302,14.2359124 L10.1500992,15.1244929 L14.5750496,19.4377535 L13.5304605,25.5281753 L19,22.6526682 L24.4695395,25.5281753 Z" id="Star-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

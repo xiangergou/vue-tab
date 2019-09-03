@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>达人榜</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-412.000000, -186.000000)">
+            <g id="上" transform="translate(370.000000, 105.000000)">
+                <g id="Group-13" transform="translate(40.000000, 76.000000)">
+                    <g id="达人榜" transform="translate(2.000000, 5.000000)">
+                        <circle id="Oval-3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.7" cx="19" cy="19" r="18.25"></circle>
+                        <g id="Group-3" transform="translate(9.000000, 3.000000)">
+                            <path d="M16.5830231,18.9602037 L15.7499869,14.1032294 L19.2787852,10.6635011 L14.4021058,9.95487808 L12.2211885,5.53585689 L10.0402711,9.95487808 L5.16359171,10.6635011 L8.69239009,14.1032294 L7.85935379,18.9602037 L12.2211885,16.6670515 L16.5830231,18.9602037 Z" id="Star" stroke="#FFFFFF" stroke-width="1.5" opacity="0.7" transform="translate(12.221188, 12.086204) rotate(-32.000000) translate(-12.221188, -12.086204) "></path>
+                            <rect id="Rectangle-17" fill-opacity="0.7" fill="#FFFFFF" transform="translate(4.212311, 21.712311) rotate(45.000000) translate(-4.212311, -21.712311) " x="3.4623106" y="17.2123106" width="1.5" height="9"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

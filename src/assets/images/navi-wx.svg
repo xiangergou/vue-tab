@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>联系我们</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1633.000000, -558.000000)">
+            <g id="Group-20" transform="translate(1633.000000, 558.000000)">
+                <g id="联系我们">
+                    <g>
+                        <rect id="Rectangle-24" fill="#FFFFFF" x="0" y="0" width="46" height="46" rx="2"></rect>
+                        <g transform="translate(11.000000, 13.000000)"></g>
+                        <path d="M22.9865922,31.9304056 L26.0055517,28.9114704 L32.309533,28.9114704 C33.5152068,28.9114704 34.2232112,28.1865764 34.2232112,26.9977922 L34.2232112,15.8530363 C34.2231916,14.7083243 33.2254979,13.7634078 31.9755709,13.7634078 L13.9964335,13.7634078 C12.7467025,13.7634078 11.75,14.7078553 11.75,15.8530235 L11.75,26.9977922 C11.75,28.1866681 12.4578786,28.9114704 13.663705,28.9114704 L19.9676327,28.9114704 L22.9865922,31.9304056 Z" id="Shape" stroke="#666666" stroke-width="1.5" fill-rule="nonzero"></path>
+                        <circle id="Oval-6" fill="#666666" cx="17.25" cy="22.25" r="1.25"></circle>
+                        <circle id="Oval-6" fill="#666666" cx="23" cy="22.25" r="1.25"></circle>
+                        <circle id="Oval-6" fill="#666666" cx="28.5" cy="22.25" r="1.25"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

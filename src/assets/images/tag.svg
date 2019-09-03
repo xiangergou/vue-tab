@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>标签</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-711.000000, -1393.000000)" stroke-width="0.7">
+            <g id="Group-7" transform="translate(711.000000, 1333.000000)">
+                <g id="Group-6" transform="translate(0.000000, 57.000000)">
+                    <g id="标签" transform="translate(9.131728, 9.131728) rotate(45.000000) translate(-9.131728, -9.131728) translate(4.131728, 1.631728)">
+                        <path d="M2.47610547,14.65 L8.5,14.65 C9.13512746,14.65 9.65,14.1351275 9.65,13.5 L9.65,4.89813213 C9.65,4.42682974 9.44845613,3.97802302 9.09620033,3.66490675 L6.26421606,1.1475874 C5.82843255,0.760224277 5.17171718,0.760288945 4.73600997,1.14773788 L1.90519556,3.66501554 C1.55315582,3.97806388 1.35171519,4.42666155 1.35163877,4.89776724 L1.35,13.5002433 C1.35,14.1273867 1.85200911,14.6372795 2.47610547,14.65 Z" id="Path-5" stroke="#979797" opacity="0.565953351"></path>
+                        <circle id="Oval" stroke="#C4C4C4" cx="5.5" cy="5.5" r="1.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
